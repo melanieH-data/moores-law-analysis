@@ -4,7 +4,6 @@
 # Student details:
 # Last name: Hand
 # First name: Melanie
-# Student number: n11484594
 
 
 # Load required libraries
@@ -298,4 +297,5 @@ glance(clock_lm_7) # View the R^2 value
 anova(clock_lm_7, clock_lm_5)
 
 # R^2 value is 0.979 which is the same as Model D.
+
 # But the anova suggests removing time variable doesn't really improve the model
